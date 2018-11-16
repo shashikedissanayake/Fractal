@@ -9,3 +9,5 @@ For run the project as Following
 Note that Main is the name of the application)
 "java Main Julia -0.5 0.156 1000"
 (then it plot the Julia set for C = -0.5 + 0.156i with 1000 iterations for each point.)
+
+Branch Using-Java-Threads contain Fractal generator using Java Threads
